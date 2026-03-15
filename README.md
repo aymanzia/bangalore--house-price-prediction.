@@ -43,9 +43,11 @@ The dataset used in this project contains information about houses in Bangalore,
 - Linear Regression
   
 **Project Structure**
+
   
 Bangalore-House-Price-Prediction
 │
+
 ├── Bangalore_House_Data.csv
 
 ├── house_price_prediction.ipynb
